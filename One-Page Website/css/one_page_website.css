@@ -1,0 +1,17 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    background-color: salmon;
+    padding: 20px;
+    border: 1px solid red;
+    margin: 50px;
+}
+
+input {
+    width: 50px;
+    margin: auto;
+    border: 50px;
+    border-radius: 10px;
+}
